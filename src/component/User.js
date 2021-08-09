@@ -6,7 +6,7 @@ export default function User (props) {
             <h3> {name} {surname}</h3>
             <p> {age}</p>
             <p> {info}</p>
-            <img src = {pict} alt="one of the Simpsons"/>
+            <img src={pict} alt="one of the Simpsons"/>
         </div>
     )
         ;
